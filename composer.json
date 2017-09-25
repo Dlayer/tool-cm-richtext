@@ -1,12 +1,12 @@
 {
-	"name": "Dlayer/tool-cm-richtext",
+	"name": "dlayer/tool-cm-richtext",
 	"description": "Richtext tool for the Dlayer Content manager",
 	"autoload": {
 		"psr-4": {
 			"Dlayer\\Tool\\ContentManager\\RichText\\": "src/"
 		}
 	},
-	"homepage": "https://github.com/Dlayer/tool-cm-richtext",
+	"homepage": "https://github.com/dlayer/tool-cm-richtext",
 	"keywords": [
 		"Dlayer",
 		"tool",
@@ -27,7 +27,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/Dlayer/tool-cm-richtext"
+			"url": "https://github.com/dlayer/tool-cm-richtext"
 		}
 	],
 	"license": "MIT"
