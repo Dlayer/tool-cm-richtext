@@ -1,0 +1,34 @@
+{
+	"name": "Dlayer/tool-cm-richtext",
+	"description": "Richtext tool for the Dlayer Content manager",
+	"autoload": {
+		"psr-4": {
+			"Dlayer\\Tool\\ContentManager\\RichText\\": "src/"
+		}
+	},
+	"homepage": "https://github.com/Dlayer/tool-cm-richtext",
+	"keywords": [
+		"Dlayer",
+		"tool",
+		"content-manager"
+	],
+	"authors": [
+		{
+			"name": "Dean Blackborough",
+			"email": "dean@g3d-development.com"
+		}
+	],
+	"require": {
+		"php": "^7.1"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "^6"
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/Dlayer/tool-cm-richtext"
+		}
+	],
+	"license": "MIT"
+}
