@@ -1,4 +1,4 @@
-# Tool forthe Dlayer Content manager.
+# Tool for the Dlayer Content manager.
 
 ## Richtext
 
